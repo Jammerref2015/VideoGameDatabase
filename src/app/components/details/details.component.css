@@ -46,7 +46,7 @@
   top: -200px;
 }
 .game-header-title {
-  font-size: 70px;
+  font-size: 200%;
   color: #fff;
   font-weight: 700;
   line-height: 70px;
@@ -60,3 +60,5 @@
   color: #fff;
   font-weight: 700;
 }
+
+
